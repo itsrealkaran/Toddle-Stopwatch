@@ -12,7 +12,13 @@ Toddle-Stopwatch is a stopwatch application built in React Native using Expo. It
 
 ## Screenshots
 
-![App Screenshots](screenshots.png)
+<img src="./ScreenShot/home.jpg" alt="Home" height="200">
+<img src="./ScreenShot/stopwatch.jpg" alt="Stopwatch" height="200">
+<img src="./ScreenShot/lap.jpg" alt="Lap" height="200">
+<img src="./ScreenShot/name.jpg" alt="Name" height="200">
+<img src="./ScreenShot/save.jpg" alt="Save" height="200">
+<img src="./ScreenShot/saved.jpg" alt="Saved" height="200">
+<img src="./ScreenShot/search.jpg" alt="Search" height="200">
 
 ## Installation
 
@@ -64,7 +70,7 @@ The following languages were used in this project:
 
 ## Download
 
-You can download the APK file for Toddle-Stopwatch from the following link: [final.apk](https://github.com/itsrealkaran/Toddle-Stopwatch/blob/main/final.apk)
+You can download the APK file for Toddle-Stopwatch from the following link: [APK File](final.apk)
 
 ## Web App
 
