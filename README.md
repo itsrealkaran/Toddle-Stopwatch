@@ -12,13 +12,13 @@ Toddle-Stopwatch is a stopwatch application built in React Native using Expo. It
 
 ## Screenshots
 
-<img src="./ScreenShot/home.jpg" alt="Home" height="200">
-<img src="./ScreenShot/stopwatch.jpg" alt="Stopwatch" height="200">
-<img src="./ScreenShot/lap.jpg" alt="Lap" height="200">
-<img src="./ScreenShot/name.jpg" alt="Name" height="200">
-<img src="./ScreenShot/save.jpg" alt="Save" height="200">
-<img src="./ScreenShot/saved.jpg" alt="Saved" height="200">
-<img src="./ScreenShot/search.jpg" alt="Search" height="200">
+<img src="https://github.com/itsrealkaran/Toddle-Stopwatch/assets/115371877/e366f9e1-bed8-4bb8-aee7-2a8e42ce0792" alt="Home" height="400"/>
+<img src="https://github.com/itsrealkaran/Toddle-Stopwatch/assets/115371877/cece5438-59f2-4d4f-ae94-9005394e1cc0" alt="Stopwatch" height="400"/>
+<img src="https://github.com/itsrealkaran/Toddle-Stopwatch/assets/115371877/01381708-6fdc-4785-8d27-8598a06a212c" alt="Lap" height="400">
+<img src="https://github.com/itsrealkaran/Toddle-Stopwatch/assets/115371877/abc309b6-ad80-4ae0-833c-978b5df70ba3" alt="Name" height="400">
+<img src="https://github.com/itsrealkaran/Toddle-Stopwatch/assets/115371877/52354faa-8f9f-4c7f-b2ae-a29ce91fa252" alt="Save" height="400">
+<img src="https://github.com/itsrealkaran/Toddle-Stopwatch/assets/115371877/327ea64b-ac1e-4200-8d93-b873fa051015" alt="Saved" height="400">
+<img src="https://github.com/itsrealkaran/Toddle-Stopwatch/assets/115371877/480788f4-847f-4ef1-8f77-df5f08a3701d" alt="Search" height="400">
 
 ## Installation
 
