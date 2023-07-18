@@ -64,16 +64,15 @@ The following languages were used in this project:
 
 ## Download
 
-You can download the APK file for Toddle-Stopwatch from the following link: [final.apk](link-to-apk-file)
+You can download the APK file for Toddle-Stopwatch from the following link: [final.apk](https://github.com/itsrealkaran/Toddle-Stopwatch/blob/main/final.apk)
 
 ## Web App
 
-A web app version of Toddle-Stopwatch is also available. You can access it by visiting [Web App](link-to-web-app).
+A web app version of Toddle-Stopwatch is also available. You can access it by visiting [Web App](https://singular-genie-fffee7.netlify.app/).
 
 ## Design
 
-The design for Toddle-Stopwatch was created using Figma. You can view the design and interactive prototypes by visiting the following link: [Figma Design](link-to-figma-design)
-
+The design for Toddle-Stopwatch was created using Figma. You can view the design and interactive prototypes by visiting the following link: [Figma Design](https://www.figma.com/file/HRUTFATGCvkpx3C4eBRpdJ/TimerTask?type=design&node-id=2-11281&mode=design)
 ## Contributions
 
 Contributions to Toddle-Stopwatch are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
